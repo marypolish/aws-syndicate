@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+/LrNFEmV8=",
+  "success": false,
+  "projectFilePath": "C:\\epam\\Demo1\\aws-syndicate\\examples\\dotnet\\lambda-with-url-and-layers\\dnapp\\lambdas\\layers\\custom_lib\\packages.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package HWP. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, nuget.org",
+      "projectPath": "C:\\epam\\Demo1\\aws-syndicate\\examples\\dotnet\\lambda-with-url-and-layers\\dnapp\\lambdas\\layers\\custom_lib\\packages.csproj",
+      "filePath": "C:\\epam\\Demo1\\aws-syndicate\\examples\\dotnet\\lambda-with-url-and-layers\\dnapp\\lambdas\\layers\\custom_lib\\packages.csproj",
+      "libraryId": "HWP",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

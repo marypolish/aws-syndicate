@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eyu/q+aus0=",
+  "success": true,
+  "projectFilePath": "C:\\epam\\Demo1\\aws-syndicate\\examples\\dotnet\\demo-cognito-api-gateway\\dnapp\\lambdas\\api_handler\\Function.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\awssdk.cognitoidentityprovider\\3.7.403.17\\awssdk.cognitoidentityprovider.3.7.403.17.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\awssdk.core\\3.7.400.36\\awssdk.core.3.7.400.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2rjN0VnCcU=",
+  "success": false,
+  "projectFilePath": "C:\\epam\\Demo1\\aws-syndicate\\tests\\smoke\\sdct-at-ddis\\dnapp\\lambdas\\layers\\sdct-at-dotnet-lambda_layer\\packages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package HWP. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, nuget.org",
+      "projectPath": "C:\\epam\\Demo1\\aws-syndicate\\tests\\smoke\\sdct-at-ddis\\dnapp\\lambdas\\layers\\sdct-at-dotnet-lambda_layer\\packages.csproj",
+      "filePath": "C:\\epam\\Demo1\\aws-syndicate\\tests\\smoke\\sdct-at-ddis\\dnapp\\lambdas\\layers\\sdct-at-dotnet-lambda_layer\\packages.csproj",
+      "libraryId": "HWP",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

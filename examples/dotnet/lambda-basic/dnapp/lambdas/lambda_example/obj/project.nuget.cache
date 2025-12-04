@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CCMzji5binw=",
+  "success": true,
+  "projectFilePath": "C:\\epam\\Demo1\\aws-syndicate\\examples\\dotnet\\lambda-basic\\dnapp\\lambdas\\lambda_example\\Function.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

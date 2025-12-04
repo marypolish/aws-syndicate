@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "syghHRXcd5w=",
+  "success": true,
+  "projectFilePath": "C:\\epam\\Demo1\\aws-syndicate\\examples\\dotnet\\lambda-with-url-and-layers\\dnapp\\lambdas\\layers\\external_libs\\packages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
